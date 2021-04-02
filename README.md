@@ -12,7 +12,7 @@ _Navegador basado en Chromium_
 
 ## ❤️❤️❤️ Sitio Web Mobile (_Haga click a la imagen_) ❤️❤️❤️
 <p align="center">
-  <img src="img/blog-de-viajes-mobile.png">
+  <img src="img/whatsapp.png">
 </p>
 
 
