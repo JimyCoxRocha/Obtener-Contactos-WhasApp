@@ -12,7 +12,7 @@ _Navegador basado en Chromium_
 
 ## ❤️❤️❤️ Sitio Web Mobile (_Haga click a la imagen_) ❤️❤️❤️
 <p align="center">
-  <img width= "50px" src="presentacion.png">
+  <img width= "250px" src="presentacion.png">
 </p>
 
 
