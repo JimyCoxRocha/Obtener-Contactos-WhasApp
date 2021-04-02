@@ -1,0 +1,22 @@
+body{
+    background-color: #e6f3e7;
+    padding: 1rem;
+}
+.btn{
+    margin: 1rem;
+    background-color: #95e19c;
+    border-style: none;
+    padding: 0.7rem 1rem;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #77bd7e;
+    box-shadow: 0px 0px 7px #888888;
+    transition:  background-color 2s;
+}
+.centrar-txt{
+    text-align: center;
+}
+.site-header{
+    font-size: 1rem;
+}
