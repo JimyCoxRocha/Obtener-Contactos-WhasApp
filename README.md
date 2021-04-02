@@ -10,7 +10,7 @@ _Navegador basado en Chromium_
 * [CSS] - Para la presentación del documento.
 * [HTML] - Para la elaboración de páginas web.
 
-## ❤️❤️❤️ Sitio Web Mobile (_Haga click a la imagen_) ❤️❤️❤️
+## ❤️❤️❤️ Complemento en Funcionamiento (_Números censurados_) ❤️❤️❤️
 <p align="center">
   <img width= "750px" src="presentacion.png">
 </p>
