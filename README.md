@@ -12,7 +12,7 @@ _Navegador basado en Chromium_
 
 ## ❤️❤️❤️ Sitio Web Mobile (_Haga click a la imagen_) ❤️❤️❤️
 <p align="center">
-  <img src="whatsapp.png">
+  <img src="presentacion.png">
 </p>
 
 
