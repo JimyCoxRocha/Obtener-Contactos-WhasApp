@@ -1,4 +1,4 @@
-# Obtener-Contactos-WhasApp
+# Obtener-Contactos-WhatsApp
 Complemento para obtener los contactos de WhatsApp mediante el navegador Chrome
 
 ## Pre-requisitos 📋
